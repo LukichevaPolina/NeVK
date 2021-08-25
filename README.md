@@ -1,4 +1,5 @@
 # NeVK
+Course project
 
 ## Project Dependencies
 
